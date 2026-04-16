@@ -1,0 +1,131 @@
+
+
+body{
+    background-image: url(media/bg.svg);
+    
+    background-size: contain;
+    background-size: 100% 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;  
+}
+
+.fa-expand {
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    font-size: 36px;
+    color: beige;
+    z-index: 10;
+}
+.fa-expand:hover {
+    cursor: pointer;
+}
+
+    
+
+main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+p{
+
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+
+}
+
+.mainvideo{
+    position: relative;
+    padding-top: 50px;
+}
+
+
+
+#blockbuster{
+    position: absolute;
+    z-index: 0;
+
+    left: 118px;
+    top: 42px;
+
+    width: 970px;
+    height: 680px;
+
+    object-fit: cover;
+}
+
+.poem p{
+    position: absolute;
+    z-index: 2;
+
+    display: none;
+    
+
+    background-color: rgb(255, 255, 0, 0.5);
+    padding: 5px 10px;
+}
+
+.line1{
+    position: absolute;
+    top: 45px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+   
+}
+
+.line2{
+    position: absolute;
+    top: 110px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+}
+
+.line3{
+    position: absolute;
+    top: 175px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+}
+
+.line4{
+     position: absolute;
+    top: 267px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+}
+
+.line5{
+     position: absolute;
+    top: 367px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    font-family: "Grand Hotel", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+
+
+.pause{
+    animation-play-state: paused;
+}
+
+
+
+
+
+
+
