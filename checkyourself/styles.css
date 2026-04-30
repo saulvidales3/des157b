@@ -1,0 +1,76 @@
+body{
+    background-image: url('images/bg.svg');
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+    background-repeat: no-repeat;
+
+}
+
+body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+
+        #counter {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #4CAF50;
+            margin-top: 20px;
+        }
+
+        #day-label {
+            margin-top: 10px;
+            font-size: 2rem;
+            font-weight: bold;
+            color: black;
+        }
+
+.routes{
+    margin: 100px auto;
+    width: 90%;
+    border: 5px solid black;
+    display: flex;
+    overflow-x: auto;
+}
+
+.routes::-webkit-scrollbar {
+    display: none;
+}
+
+.group{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    gap: 1em;
+    animation: spin 10s linear infinite;
+    padding-right: 1em;
+}
+
+.card{
+    flex: 0 0 5em;
+    height: 5em;
+    padding: 1em;
+    background-color: lightgray;
+    font-size: 3rem;
+    border-radius: .2em;
+    text-align: center; 
+    align-content: center;
+}
+
+/* Image cards: remove internal padding and make the <img> fill the card */
+.card.img{
+    padding: 0;
+    overflow: hidden;
+}
+.card.img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* ensures image fills and preserves aspect ratio */
+    display: block;
+}
+@keyframes spin{
+    from {translate: 0;}
+    to {translate: -100%;}
+
+}
