@@ -1,0 +1,26 @@
+/* Ensure the page fills the viewport so percentage heights behave predictably */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* keep the map visible and on top */
+#map {
+    position: relative;
+    z-index: 2;
+    height: 180px;
+}
+
+/* Make the Granim canvas cover the viewport but sit behind content.
+   pointer-events:none prevents it from blocking clicks. Using vw/vh
+   avoids depending on parent height. */
+
+
+
+    .box {
+      width: 200px;
+      height: 200px;
+      background: steelblue;
+      margin: 200px auto;
+      border-radius: 12px;
+    }
