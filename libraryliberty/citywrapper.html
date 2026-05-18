@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cityscape Viewer</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/granim/2.0.0/granim.min.js"></script>
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+  <!-- Granim animated gradient background -->
+  <canvas id="granim-canvas"></canvas>
+
+  <div class="viewer-shell">
+
+    <div class="viewer-header">
+      
+    
+      <span style="width:52px"></span><!-- balance spacer -->
+    </div>
+
+    <div class="scene-frame">
+      <iframe
+        src="index.html"
+        title="3D Cityscape Scene"
+        allowfullscreen
+      ></iframe>
+    </div>
+
+    
+
+  </div>
+
+  <script>
+    var granimInstance = new Granim({
+      element: '#granim-canvas',
+      direction: 'diagonal',
+      isPausedWhenNotInView: true,
+      states: {
+        'default-state': {
+          gradients: [
+            ['#f7971e', '#ffd200'],
+            ['#f7971e', '#c0392b'],
+            ['#c0392b', '#8e44ad'],
+            ['#8e44ad', '#ffd200'],
+          ],
+          transitionSpeed: 6000
+        }
+      }
+    });
+  </script>
+
+
+
+</body>
+</html>
