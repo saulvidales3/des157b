@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 199.3 144.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        font-family: SukhumvitSet-Text, 'Sukhumvit Set';
+      }
+
+      .cls-4 {
+        font-size: 18px;
+      }
+
+      .cls-5 {
+        font-family: SukhumvitSet-Bold, 'Sukhumvit Set';
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="72.1" x2="199.3" y2="72.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2484c6"/>
+      <stop offset="0" stop-color="#88ff7f" stop-opacity=".97"/>
+      <stop offset="1" stop-color="#2484c6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-1" width="199.3" height="144.2"/>
+    <text class="cls-4" transform="translate(12.55 42.56)"><tspan class="cls-2"><tspan x="0" y="0">Scientists warn human </tspan></tspan><tspan class="cls-2"><tspan x="7.53" y="21.6">population g</tspan><tspan class="cls-7" x="105.29" y="21.6">r</tspan><tspan x="111.75" y="21.6">owth is </tspan></tspan><tspan class="cls-2" x="-.4" y="43.2">&apos;</tspan><tspan class="cls-5" x="2.99" y="43.2">unsustainable</tspan><tspan class="cls-2" x="113.98" y="43.2">&apos; </tspan><tspan class="cls-3" x="122" y="43.2">f</tspan><tspan class="cls-2" x="127.73" y="43.2">or soil </tspan><tspan class="cls-2"><tspan x="6.61" y="64.8">mic</tspan><tspan class="cls-7" x="33.4" y="64.8">r</tspan><tspan x="39.86" y="64.8">obiome di</tspan><tspan class="cls-6" x="115.69" y="64.8">v</tspan><tspan x="123.92" y="64.8">ersi</tspan><tspan class="cls-7" x="151.58" y="64.8">t</tspan><tspan x="157.68" y="64.8">y</tspan></tspan></text>
+  </g>
+</svg>
