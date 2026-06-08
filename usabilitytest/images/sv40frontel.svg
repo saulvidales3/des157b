@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.3 145.2">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: SukhumvitSet-Bold, 'Sukhumvit Set';
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #9cf2c6;
+        font-size: 18px;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        font-family: SukhumvitSet-Text, 'Sukhumvit Set';
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-4" x=".5" y=".5" width="199.3" height="144.2"/>
+      <text class="cls-3" transform="translate(18.28 50.74)"><tspan class="cls-5" x="0" y="0">Man sentenced </tspan><tspan class="cls-6" x="122.07" y="0">t</tspan><tspan class="cls-5" x="128.18" y="0">o </tspan><tspan class="cls-2" x="142.5" y="0">40 </tspan><tspan class="cls-2" x="-5.56" y="21.6">y</tspan><tspan class="cls-1" x="4.61" y="21.6">e</tspan><tspan class="cls-2" x="13.68" y="21.6">ars </tspan><tspan class="cls-7" x="41.96" y="21.6">f</tspan><tspan class="cls-5" x="47.68" y="21.6">or mowing lawn </tspan><tspan class="cls-5"><tspan x="18.1" y="43.2">without a permit</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
