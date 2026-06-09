@@ -1,0 +1,45 @@
+body {
+
+     background-color: #000000;
+   
+ 
+}
+
+.container{
+    background-color: #FFFFFF;
+    padding: 20px;
+    border: 1px solid #DDDDDD;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.25);
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+    font-family: "Nerko One", cursive;
+    font-size: 13px;
+    font-style: normal;
+    
+
+}
+
+h1{
+      text-align: center;
+
+}
+
+h2{
+    margin-left: 28%;
+}
+
+p{
+   font-family: "Outfit", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
