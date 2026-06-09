@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 144.02 126.85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-family: FatFrank-Heavy, FatFrank;
+        font-size: 36px;
+        font-weight: 800;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="72.01" y1="126.35" x2="72.01" y2=".5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9fffc5"/>
+      <stop offset=".01" stop-color="#99f9c5" stop-opacity=".96"/>
+      <stop offset=".09" stop-color="#81e1c5" stop-opacity=".76"/>
+      <stop offset=".17" stop-color="#6bcbc5" stop-opacity=".58"/>
+      <stop offset=".26" stop-color="#58b8c5" stop-opacity=".42"/>
+      <stop offset=".34" stop-color="#47a7c5" stop-opacity=".29"/>
+      <stop offset=".44" stop-color="#3a9ac5" stop-opacity=".19"/>
+      <stop offset=".54" stop-color="#3090c5" stop-opacity=".1"/>
+      <stop offset=".66" stop-color="#2989c5" stop-opacity=".04"/>
+      <stop offset=".79" stop-color="#2585c5" stop-opacity=".01"/>
+      <stop offset="1" stop-color="#2484c6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-1" x=".5" y=".5" width="143.02" height="125.85"/>
+    <text class="cls-2" transform="translate(14.16 74.49)"><tspan x="0" y="0">GREEN</tspan></text>
+  </g>
+</svg>
